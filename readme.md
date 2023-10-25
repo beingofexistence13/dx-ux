@@ -1,4 +1,4 @@
-# 𝑫𝒙-𝑼𝒊 🎉
+# 𝔇𝔵-𝔘𝔵 🎉
 
 Welcome to **dx-ux**, an open-source software project that's revolutionizing web user experience! 🌐💡
 
