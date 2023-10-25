@@ -1,4 +1,4 @@
-# dx-ux 🎉
+# 𝑫𝒙-𝑼𝒊 🎉
 
 Welcome to **dx-ux**, an open-source software project that's revolutionizing web user experience! 🌐💡
 
@@ -21,7 +21,8 @@ Welcome to **dx-ux**, an open-source software project that's revolutionizing web
 
 We love your input! We want to make contributing to this project as easy and transparent as possible.
 
-## Some Libraries 🎉
+## Some Libraries 
+
 | Library            | Description                                                                                                   |
 |--------------------|---------------------------------------------------------------------------------------------------------------|
 | Animate.css        | A lightweight CSS animation library.                                                                          |
@@ -72,3 +73,8 @@ We love your input! We want to make contributing to this project as easy and tra
 dx-ux is open-source software licensed under the MIT license.
 
 Join us in revolutionizing web UX! 😊🚀
+
+          へ   ♡   ╱|、
+     ૮  -   ՛ )      (`   -  7
+       /   ⁻  ៸|       |、⁻〵
+ 乀 (ˍ, ل ل      じしˍ,)ノ
