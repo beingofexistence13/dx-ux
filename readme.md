@@ -74,7 +74,4 @@ dx-ux is open-source software licensed under the MIT license.
 
 Join us in revolutionizing web UX! 😊🚀
 
-          へ   ♡   ╱|、
-     ૮  -   ՛ )      (`   -  7
-       /   ⁻  ៸|       |、⁻〵
- 乀 (ˍ, ل ل      じしˍ,)ノ
+(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
